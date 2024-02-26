@@ -12,19 +12,8 @@
 
 - :seedling: Учавствовал в WorldSkills.
 
-- :mailbox: Как связаться со мной:
+- :mailbox: Как связаться со мной: https://t.me/dervi_js
 
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-
----
 
 ### 💻 Технологии:
 
